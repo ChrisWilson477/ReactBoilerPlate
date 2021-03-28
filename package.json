@@ -1,7 +1,7 @@
 {
-    "name": "AcmeClothingCo",
+    "name": "boilerplatereact",
     "version": "1.0.0",
-    "description": "Ecommerce website displaying the latest fashion trends",
+    "description": "",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
